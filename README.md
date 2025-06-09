@@ -1,22 +1,22 @@
 # Basic Recipe Website
 
-## Projektbeschreibung
+## Project Description
 
-Dieses Projekt dient als Übung, um die Grundlagen von HTML zu festigen. Ziel ist es, eine einfache Rezept-Website zu erstellen. Der Fokus liegt ausschließlich auf HTML – Design und Styling spielen hier noch keine Rolle.
+This project is a practice exercise to solidify your understanding of HTML. The goal is to build a simple recipe website focusing entirely on HTML. Design and styling are not part of this phase.
 
-## Inhalte der Website
+## Website Content
 
-* **index.html** – Die Startseite der Website mit Links zu mehreren Rezeptseiten.
-* **Einzelne Rezeptseiten** – Jede Rezeptseite enthält die Zutatenliste und die Zubereitungsschritte eines Gerichts.
+* **index.html** – The homepage of the website containing links to several recipe pages.
+* **Individual recipe pages** – Each recipe page includes a list of ingredients and preparation steps for a specific dish.
 
-## Ziel
+## Objective
 
-Die Website muss **funktional** sein:
+The website must be **functional**:
 
-* Alle Seiten müssen korrekt verlinkt sein.
-* Die Struktur soll semantisch korrekt aufgebaut sein.
-* Kein CSS, kein JavaScript – nur reines HTML.
+* All pages must be correctly linked.
+* Use proper semantic HTML structure.
+* No CSS, no JavaScript – strictly plain HTML.
 
-## Hinweis
+## Note
 
-Dies ist ein reines HTML-Projekt zur Festigung der Grundlagen. In einem späteren Schritt wird das Projekt mit CSS überarbeitet und gestaltet.
+This is an HTML-only project for practice purposes. It will be revisited later to add styling with CSS.
